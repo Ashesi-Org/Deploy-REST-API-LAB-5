@@ -1,0 +1,6 @@
+{"voterID": "AS001", "name": "Michaellina Yara", "class": "2025", "major": "Mechanical Engineering", "email": "myara@outlook.com"}
+{"voterID": "AS001", "name": "Daniel Yakubu", "class": "2026", "major": "Computer Engineering", "email": "dakubu@gmail.com"}
+{"name": "Alima Mensah", "email": "imasah@gmail.com"}
+{"id": "AS001", "name": "Mark Crankson", "email": "mark@gmail.com"}
+{"id": "AS001", "name": "Mark Crankson", "email": "mark@gmail.com"}
+{"id": "AS001", "name": "Mark Crankson", "email": "mark@gmail.com", "yearGroup": "2026", "major": "Mechanical Engineering"}

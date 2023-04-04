@@ -1,0 +1,4 @@
+{"electionID": "ES01", "title": "Ashesi Student Council", "start-date": "24-03-2023", "end-date": "30-03-2023"}
+{"election_id": "E001", "title": "Mastercard Scholars", "start-date": "02-04-2023", "end-date": "26-04-2023"}
+{"election_id": "E001", "title": "Mastercard Scholars", "start-date": "02-04-2023", "end-date": "26-04-2023"}
+{"election_id": "E001", "title": "Mastercard Scholars", "start-date": "02-04-2023", "end-date": "26-04-2023"}
